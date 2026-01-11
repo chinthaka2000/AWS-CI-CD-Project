@@ -24,3 +24,6 @@ setup(
    author='chinthaka2000',
    author_email='smartchinthaka512@gmail.com',
 )
+
+
+#901762117037.dkr.ecr.us-east-1.amazonaws.com/student_performance
